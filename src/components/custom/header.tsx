@@ -33,7 +33,7 @@ const Header = () => {
                 alt="JSTNHS"
                 className="w-12 h-12"
               />
-              <span className="text-lg font-bold">JST National High School</span>
+              <span className="text-md font-bold">JST National High School</span>
             </motion.div>
   
             {/* Desktop Navigation */}
